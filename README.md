@@ -1,12 +1,9 @@
 # STATS-220-2024
-This is my demo repo for STATS 220.
+This is my demo repo for STATS 220-Semester one 2024.
 
-I am a beginner in deep coding with R Studio. 
-This is my first Project for this course. 
-I learned a lot from it.
+I did my first Project for this course. 
+  - I learned a lot from it.👍
 
-And you can see the project here.
+Very nice to meet you!😊
 Thank you!
-
-
 
